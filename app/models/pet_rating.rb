@@ -1,0 +1,2 @@
+class PetRating < ApplicationRecord
+end
